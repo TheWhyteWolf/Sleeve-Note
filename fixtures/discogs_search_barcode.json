@@ -1,0 +1,155 @@
+{
+ "pagination": {
+  "items": 2,
+  "page": 1,
+  "pages": 1,
+  "per_page": 50,
+  "urls": {}
+ },
+ "results": [
+  {
+   "barcode": [
+    "0886976389413",
+    "BIEM/GEMA"
+   ],
+   "catno": "MOVLP 019",
+   "community": {
+    "have": 1875,
+    "want": 1434
+   },
+   "country": "Europe",
+   "cover_image": "",
+   "format": [
+    "Vinyl",
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Numbered",
+    "Reissue",
+    "Remastered"
+   ],
+   "format_quantity": 2,
+   "formats": [
+    {
+     "descriptions": [
+      "LP",
+      "Album",
+      "Limited Edition",
+      "Numbered",
+      "Reissue",
+      "Remastered"
+     ],
+     "name": "Vinyl",
+     "qty": "2",
+     "text": "Blue, 180 gram"
+    }
+   ],
+   "genre": [
+    "Jazz"
+   ],
+   "id": 2317524,
+   "label": [
+    "Music On Vinyl",
+    "Music On Vinyl",
+    "Columbia",
+    "Legacy",
+    "Music On Vinyl B.V.",
+    "Music On Vinyl B.V.",
+    "Sony Music Entertainment",
+    "Sony Music Entertainment"
+   ],
+   "master_id": 5460,
+   "master_url": "https://api.discogs.com/masters/5460",
+   "resource_url": "https://api.discogs.com/releases/2317524",
+   "style": [
+    "Modal"
+   ],
+   "thumb": "",
+   "title": "Miles Davis - Kind Of Blue",
+   "type": "release",
+   "uri": "/release/2317524-Miles-Davis-Kind-Of-Blue",
+   "year": "2010"
+  },
+  {
+   "barcode": [
+    "0 886976 389413",
+    "886976389413",
+    "BIEM/GEMA",
+    "BIEM/STEMRA",
+    "85692 3A MOVLP 019",
+    "85692 3B MOVLP 019",
+    "85692 2C MOVLP 019",
+    "85692 2D MOVLP 019",
+    "85692 4A MOVLP 019",
+    "85692 3B MOVLP 019",
+    "85692 3C MOVLP 019",
+    "85692 3D MOVLP 019",
+    "85692 5A MOVLP 019",
+    "85692 4B MOVLP 019",
+    "85692 3C MOVLP 019",
+    "85692 3D MOVLP 019",
+    "85692 4A MOVLP 019",
+    "85692 3B MOVLP 019",
+    "85692 2C MOVLP 019",
+    "85692 2D MOVLP 019"
+   ],
+   "catno": "MOVLP 019",
+   "community": {
+    "have": 5027,
+    "want": 1673
+   },
+   "country": "Europe",
+   "cover_image": "",
+   "format": [
+    "Vinyl",
+    "LP",
+    "Album",
+    "Reissue",
+    "Remastered",
+    "Stereo"
+   ],
+   "format_quantity": 2,
+   "formats": [
+    {
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue",
+      "Remastered",
+      "Stereo"
+     ],
+     "name": "Vinyl",
+     "qty": "2",
+     "text": "180 Gram, Gatefold"
+    }
+   ],
+   "genre": [
+    "Jazz"
+   ],
+   "id": 2506823,
+   "label": [
+    "Music On Vinyl",
+    "Music On Vinyl",
+    "Columbia",
+    "Legacy",
+    "Sony Music Entertainment",
+    "Sony Music Entertainment",
+    "Music On Vinyl B.V.",
+    "Music On Vinyl B.V.",
+    "Sony Music Entertainment",
+    "Record Industry"
+   ],
+   "master_id": 5460,
+   "master_url": "https://api.discogs.com/masters/5460",
+   "resource_url": "https://api.discogs.com/releases/2506823",
+   "style": [
+    "Modal"
+   ],
+   "thumb": "",
+   "title": "Miles Davis - Kind Of Blue",
+   "type": "release",
+   "uri": "/release/2506823-Miles-Davis-Kind-Of-Blue",
+   "year": "2010"
+  }
+ ]
+}

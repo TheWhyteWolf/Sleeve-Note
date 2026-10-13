@@ -1,0 +1,18 @@
+# The collection and its certificate never go into an image: app.db is a
+# volume, and tls/ is for running on the laptop, not behind tailscale serve.
+app.db
+app.db-*
+demo.db
+demo.db-*
+tls/
+*.pem
+__pycache__/
+*.pyc
+# The test suite and its recorded answers are run against the image by mounting
+# the source, not baked into it.
+tests.py
+fixtures/
+Dockerfile
+.dockerignore
+.gitignore
+*.md

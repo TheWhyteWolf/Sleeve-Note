@@ -1,0 +1,495 @@
+{
+ "artists": [
+  {
+   "aliases": [
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "Miles Dewey Davis III",
+     "primary": null,
+     "sort-name": "Miles Dewey Davis III",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": "en",
+     "name": "Miles Davis",
+     "primary": true,
+     "sort-name": "Davis, Miles",
+     "type": "Artist name",
+     "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": "en",
+     "name": "Davis",
+     "primary": null,
+     "sort-name": "Davis",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": "bg",
+     "name": "\u041c\u0430\u0439\u043b\u0437 \u0414\u0435\u0439\u0432\u0438\u0441",
+     "primary": null,
+     "sort-name": "\u0414\u0435\u0439\u0432\u0438\u0441, \u041c\u0430\u0439\u043b\u0437",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "Miles Davies",
+     "primary": null,
+     "sort-name": "Miles Davies",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "Miles Favis",
+     "primary": null,
+     "sort-name": "Favis, Miles",
+     "type": null
+    }
+   ],
+   "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "life-span": {
+     "ended": null
+    },
+    "name": "United States",
+    "sort-name": "United States",
+    "type": "Country",
+    "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+   },
+   "begin-area": {
+    "id": "39e1719e-2604-4b59-b698-dab7caf85b33",
+    "life-span": {
+     "ended": null
+    },
+    "name": "Alton",
+    "sort-name": "Alton",
+    "type": "City",
+    "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+   },
+   "country": "US",
+   "disambiguation": "jazz trumpeter, bandleader, songwriter",
+   "end-area": {
+    "id": "dbacf2e3-7e3e-4cee-8804-999b109285fa",
+    "life-span": {
+     "ended": null
+    },
+    "name": "Santa Monica",
+    "sort-name": "Santa Monica",
+    "type": "City",
+    "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+   },
+   "gender": "male",
+   "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+   "id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+   "ipis": [
+    "00007619785"
+   ],
+   "isnis": [
+    "000000012144707X"
+   ],
+   "life-span": {
+    "begin": "1926-05-26",
+    "end": "1991-09-28",
+    "ended": true
+   },
+   "name": "Miles Davis",
+   "score": 100,
+   "sort-name": "Davis, Miles",
+   "tags": [
+    {
+     "count": 1,
+     "name": "rock"
+    },
+    {
+     "count": 1,
+     "name": "classical"
+    },
+    {
+     "count": 27,
+     "name": "jazz"
+    },
+    {
+     "count": -1,
+     "name": "american"
+    },
+    {
+     "count": 1,
+     "name": "blues"
+    },
+    {
+     "count": 1,
+     "name": "funk"
+    },
+    {
+     "count": -1,
+     "name": "fusion"
+    },
+    {
+     "count": 0,
+     "name": "trumpet"
+    },
+    {
+     "count": 0,
+     "name": "jazz rock"
+    },
+    {
+     "count": 13,
+     "name": "jazz fusion"
+    },
+    {
+     "count": 4,
+     "name": "post-bop"
+    },
+    {
+     "count": 7,
+     "name": "hard bop"
+    },
+    {
+     "count": 11,
+     "name": "modal jazz"
+    },
+    {
+     "count": 3,
+     "name": "bebop"
+    },
+    {
+     "count": 1,
+     "name": "jazz-funk"
+    },
+    {
+     "count": 10,
+     "name": "cool jazz"
+    },
+    {
+     "count": 0,
+     "name": "jazz-rock"
+    },
+    {
+     "count": -2,
+     "name": "musical"
+    },
+    {
+     "count": 0,
+     "name": "trumpeter"
+    },
+    {
+     "count": 0,
+     "name": "composers"
+    },
+    {
+     "count": -1,
+     "name": "jazz and blues"
+    },
+    {
+     "count": -1,
+     "name": "miles davis"
+    },
+    {
+     "count": -2,
+     "name": "george gershwin"
+    },
+    {
+     "count": 0,
+     "name": "acting"
+    },
+    {
+     "count": 0,
+     "name": "instrumental jazz"
+    },
+    {
+     "count": 0,
+     "name": "jazz musicians"
+    },
+    {
+     "count": 0,
+     "name": "third stream"
+    },
+    {
+     "count": 0,
+     "name": "composition"
+    },
+    {
+     "count": -2,
+     "name": "death by stroke"
+    },
+    {
+     "count": -2,
+     "name": "death by pneumonia"
+    },
+    {
+     "count": -1,
+     "name": "midnight"
+    },
+    {
+     "count": 0,
+     "name": "modal music"
+    },
+    {
+     "count": 0,
+     "name": "the best of"
+    },
+    {
+     "count": -1,
+     "name": "3356571013121"
+    },
+    {
+     "count": -1,
+     "name": "had feet"
+    },
+    {
+     "count": 0,
+     "name": "trumpeters"
+    }
+   ],
+   "type": "Person",
+   "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+  },
+  {
+   "aliases": [
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "Miles Dvis Quintet",
+     "primary": null,
+     "sort-name": "Miles Dvis Quintet",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "Miles Davis Quintett",
+     "primary": null,
+     "sort-name": "Miles Davis Quintett",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "The New Miles Davis Quintet",
+     "primary": null,
+     "sort-name": "The New Miles Davis Quintet",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "The Miles Davis Quintet",
+     "primary": null,
+     "sort-name": "The Miles Davis Quintet",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "Miles Davis Quintette",
+     "primary": null,
+     "sort-name": "Miles Davis Quintette",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "Miles Davis quintet 1965-'68",
+     "primary": null,
+     "sort-name": "Miles Davis quintet 1965-'68",
+     "type": null
+    },
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "Miles Davis Quintets",
+     "primary": null,
+     "sort-name": "Miles Davis Quintet",
+     "type": null
+    }
+   ],
+   "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "life-span": {
+     "ended": null
+    },
+    "name": "United States",
+    "sort-name": "United States",
+    "type": "Country",
+    "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+   },
+   "country": "US",
+   "disambiguation": "US jazz group, active 1955\u201358 and 1964-1970",
+   "id": "fe7245e7-d734-4ca1-8e26-691883f58201",
+   "isnis": [
+    "0000000110083450"
+   ],
+   "life-span": {
+    "begin": "1955",
+    "end": "1970",
+    "ended": true
+   },
+   "name": "Miles Davis Quintet",
+   "score": 73,
+   "sort-name": "Davis, Miles, Quintet",
+   "tags": [
+    {
+     "count": 6,
+     "name": "jazz"
+    },
+    {
+     "count": 1,
+     "name": "hard bop"
+    },
+    {
+     "count": 1,
+     "name": "cool jazz"
+    },
+    {
+     "count": 1,
+     "name": "jazzband"
+    }
+   ],
+   "type": "Group",
+   "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+  },
+  {
+   "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "life-span": {
+     "ended": null
+    },
+    "name": "United States",
+    "sort-name": "United States",
+    "type": "Country",
+    "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+   },
+   "country": "US",
+   "id": "f137837b-fa55-48d1-8c85-f13961b3ac77",
+   "isnis": [
+    "0000000109398877"
+   ],
+   "life-span": {
+    "ended": null
+   },
+   "name": "Miles Davis Sextet",
+   "score": 66,
+   "sort-name": "Davis, Miles, Sextet",
+   "tags": [
+    {
+     "count": 3,
+     "name": "jazz"
+    },
+    {
+     "count": 2,
+     "name": "cool jazz"
+    },
+    {
+     "count": 0,
+     "name": "bop"
+    }
+   ],
+   "type": "Group",
+   "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+  },
+  {
+   "aliases": [
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "Miles Davis Nonet",
+     "primary": null,
+     "sort-name": "Miles Davis Nonet",
+     "type": null
+    }
+   ],
+   "begin-area": {
+    "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+    "life-span": {
+     "ended": null
+    },
+    "name": "New York",
+    "sort-name": "New York",
+    "type": "City",
+    "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+   },
+   "id": "16d2b8e6-8930-4c9e-856f-e6d096479350",
+   "life-span": {
+    "begin": "1948-08",
+    "end": "1950",
+    "ended": true
+   },
+   "name": "The Miles Davis Nonet",
+   "score": 64,
+   "sort-name": "Davis, Miles, Nonet, The",
+   "tags": [
+    {
+     "count": 1,
+     "name": "jazz"
+    }
+   ],
+   "type": "Group",
+   "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+  },
+  {
+   "aliases": [
+    {
+     "begin-date": null,
+     "end-date": null,
+     "locale": null,
+     "name": "The Miles Davis Quartet",
+     "primary": null,
+     "sort-name": "The Miles Davis Quartet",
+     "type": null
+    }
+   ],
+   "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "life-span": {
+     "ended": null
+    },
+    "name": "United States",
+    "sort-name": "United States",
+    "type": "Country",
+    "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+   },
+   "country": "US",
+   "id": "03606dee-b333-48fe-b9af-d671c837d40f",
+   "isnis": [
+    "0000000084164897"
+   ],
+   "life-span": {
+    "ended": null
+   },
+   "name": "Miles Davis Quartet",
+   "score": 64,
+   "sort-name": "Davis, Miles, Quartet",
+   "tags": [
+    {
+     "count": 1,
+     "name": "jazz"
+    }
+   ],
+   "type": "Group",
+   "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+  }
+ ],
+ "count": 4260,
+ "created": "2026-09-25T23:31:41.837Z",
+ "offset": 0
+}

@@ -1,0 +1,17 @@
+app.db
+app.db-wal
+app.db-shm
+demo.db
+demo.db-wal
+demo.db-shm
+__pycache__/
+*.pyc
+tls/
+*.pem
+.env
+.env.*
+*.db-journal
+*.sqlite
+*.sqlite3
+*.key
+*.p12

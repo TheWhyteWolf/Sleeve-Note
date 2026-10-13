@@ -1,0 +1,81 @@
+{
+ "count": 1,
+ "created": "2026-09-25T23:31:33.362Z",
+ "offset": 0,
+ "releases": [
+  {
+   "artist-credit": [
+    {
+     "artist": {
+      "disambiguation": "jazz trumpeter, bandleader, songwriter",
+      "id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+      "name": "Miles Davis",
+      "sort-name": "Davis, Miles"
+     },
+     "name": "Miles Davis"
+    }
+   ],
+   "artist-credit-id": "7e5a5673-c1a3-3782-942d-c7693533e532",
+   "asin": "B0035WARJ4",
+   "barcode": "0886976389413",
+   "count": 2,
+   "country": "NL",
+   "date": "2010-05",
+   "id": "d6a1f166-8a02-4608-849b-9d623912c3e5",
+   "label-info": [
+    {
+     "catalog-number": "MOVLP019",
+     "label": {
+      "id": "ba877a7c-18a9-4c68-8296-687fc3402864",
+      "name": "Music on Vinyl"
+     }
+    }
+   ],
+   "media": [
+    {
+     "disc-count": 0,
+     "format": "Vinyl",
+     "id": "18f92af6-6ab1-3fce-84f8-4d246cb57ebb",
+     "track-count": 5
+    },
+    {
+     "disc-count": 0,
+     "format": "Vinyl",
+     "id": "5656362e-fad4-3702-b3a4-a27b7e1a4fdf",
+     "track-count": 2
+    }
+   ],
+   "packaging": "Cardboard/Paper Sleeve",
+   "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+   "release-events": [
+    {
+     "area": {
+      "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+      "iso-3166-1-codes": [
+       "NL"
+      ],
+      "name": "Netherlands",
+      "sort-name": "Netherlands"
+     },
+     "date": "2010-05"
+    }
+   ],
+   "release-group": {
+    "id": "8e8a594f-2175-38c7-a871-abb68ec363e7",
+    "primary-type": "Album",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "title": "Kind of Blue",
+    "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+   },
+   "score": 100,
+   "status": "Official",
+   "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+   "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+   },
+   "title": "Kind of Blue",
+   "track-count": 7
+  }
+ ]
+}

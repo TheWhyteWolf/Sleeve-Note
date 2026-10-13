@@ -1,0 +1,305 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 23755,
+   "join": "",
+   "name": "Miles Davis",
+   "resource_url": "https://api.discogs.com/artists/23755",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-ov32suDuJlZACym6tbwfcu4dFWYrGXmvlnWi1qrwh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzNzU1/LTE3NTY0ODc2NjMt/NDA3My5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "artists_sort": "Miles Davis",
+ "blocked_from_sale": false,
+ "community": {
+  "contributors": [
+   {
+    "resource_url": "https://api.discogs.com/users/tuckr",
+    "username": "tuckr"
+   },
+   {
+    "resource_url": "https://api.discogs.com/users/ubongo",
+    "username": "ubongo"
+   },
+   {
+    "resource_url": "https://api.discogs.com/users/degm",
+    "username": "degm"
+   },
+   {
+    "resource_url": "https://api.discogs.com/users/florette69",
+    "username": "florette69"
+   },
+   {
+    "resource_url": "https://api.discogs.com/users/Opdiner",
+    "username": "Opdiner"
+   },
+   {
+    "resource_url": "https://api.discogs.com/users/oddarvid",
+    "username": "oddarvid"
+   },
+   {
+    "resource_url": "https://api.discogs.com/users/Marleen_Records",
+    "username": "Marleen_Records"
+   }
+  ],
+  "data_quality": "Needs Vote",
+  "have": 1875,
+  "rating": {
+   "average": 4.79,
+   "count": 225
+  },
+  "status": "Accepted",
+  "submitter": {
+   "resource_url": "https://api.discogs.com/users/tuckr",
+   "username": "tuckr"
+  },
+  "want": 1434
+ },
+ "companies": [
+  {
+   "catno": "",
+   "entity_type": "9",
+   "entity_type_name": "Distributed By",
+   "id": 322260,
+   "name": "Music On Vinyl B.V.",
+   "resource_url": "https://api.discogs.com/labels/322260",
+   "thumbnail_url": "https://i.discogs.com/5FVoyZVu8PNihDy2GUHV60fxBeF2QnBUyrhpo4kbghQ/rs:fit/g:sm/q:90/h:52/w:329/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMjI2/MC0xNTkxMTk4NjM1/LTg5NDMuanBlZw.jpeg"
+  },
+  {
+   "catno": "",
+   "entity_type": "10",
+   "entity_type_name": "Manufactured By",
+   "id": 322260,
+   "name": "Music On Vinyl B.V.",
+   "resource_url": "https://api.discogs.com/labels/322260",
+   "thumbnail_url": "https://i.discogs.com/5FVoyZVu8PNihDy2GUHV60fxBeF2QnBUyrhpo4kbghQ/rs:fit/g:sm/q:90/h:52/w:329/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMjI2/MC0xNTkxMTk4NjM1/LTg5NDMuanBlZw.jpeg"
+  },
+  {
+   "catno": "",
+   "entity_type": "13",
+   "entity_type_name": "Phonographic Copyright (p)",
+   "id": 29073,
+   "name": "Sony Music Entertainment",
+   "resource_url": "https://api.discogs.com/labels/29073",
+   "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+  },
+  {
+   "catno": "",
+   "entity_type": "14",
+   "entity_type_name": "Copyright (c)",
+   "id": 29073,
+   "name": "Sony Music Entertainment",
+   "resource_url": "https://api.discogs.com/labels/29073",
+   "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+  }
+ ],
+ "country": "Europe",
+ "data_quality": "Needs Vote",
+ "date_added": "2010-06-14T02:07:20-07:00",
+ "date_changed": "2022-07-09T06:15:59-07:00",
+ "estimated_weight": 460,
+ "extraartists": [
+  {
+   "anv": "",
+   "id": 6443043,
+   "join": "",
+   "name": "Studio voor Visuele Pop.Cultuur",
+   "resource_url": "https://api.discogs.com/artists/6443043",
+   "role": "Design [Additional Sleeve Design]",
+   "tracks": ""
+  }
+ ],
+ "format_quantity": 2,
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Numbered",
+    "Reissue",
+    "Remastered"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Blue, 180 gram"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 2317524,
+ "identifiers": [
+  {
+   "type": "Barcode",
+   "value": "0886976389413"
+  },
+  {
+   "type": "Rights Society",
+   "value": "BIEM/GEMA"
+  }
+ ],
+ "images": [
+  {
+   "height": 400,
+   "resource_url": "https://i.discogs.com/n3AaAIGg4cnDIvAwryxtUu2nLTKGE5hAQz23Q9EGmJE/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc1/MjQtMTI3NjUwNjQw/Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/n3AaAIGg4cnDIvAwryxtUu2nLTKGE5hAQz23Q9EGmJE/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc1/MjQtMTI3NjUwNjQw/Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/N7WSsCn-s5efV0dT_QGB0Rgja9ehVRJxvc4yasMcwvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc1/MjQtMTI3NjUwNjQw/Ny5qcGVn.jpeg",
+   "width": 400
+  },
+  {
+   "height": 450,
+   "resource_url": "https://i.discogs.com/3CXNZZJU8x9hrz3Hqp-gOla5ek5yDs-1wwk-G5k9duM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc1/MjQtMTY1NzM3MTY0/Mi05OTY1LmpwZWc.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/3CXNZZJU8x9hrz3Hqp-gOla5ek5yDs-1wwk-G5k9duM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc1/MjQtMTY1NzM3MTY0/Mi05OTY1LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/LP_xs1FQ0V3-3yXd4DOUEZrmSu_5nHQS7gljKds6Dog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc1/MjQtMTY1NzM3MTY0/Mi05OTY1LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "is_offensive": false,
+ "labels": [
+  {
+   "catno": "MOVLP 019",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 169635,
+   "name": "Music On Vinyl",
+   "resource_url": "https://api.discogs.com/labels/169635",
+   "thumbnail_url": "https://i.discogs.com/o8FdZbFylxlL4Mc91n3DX9UWRbDRrqvX1oW98w-DPXA/rs:fit/g:sm/q:90/h:54/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTYz/NS0xMjU3MzIyODA5/LmpwZWc.jpeg"
+  },
+  {
+   "catno": "MOVLP019",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 169635,
+   "name": "Music On Vinyl",
+   "resource_url": "https://api.discogs.com/labels/169635",
+   "thumbnail_url": "https://i.discogs.com/o8FdZbFylxlL4Mc91n3DX9UWRbDRrqvX1oW98w-DPXA/rs:fit/g:sm/q:90/h:54/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTYz/NS0xMjU3MzIyODA5/LmpwZWc.jpeg"
+  },
+  {
+   "catno": "88697638941",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  },
+  {
+   "catno": "88697638941",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  }
+ ],
+ "lowest_price": 51.43,
+ "master_id": 5460,
+ "master_url": "https://api.discogs.com/masters/5460",
+ "notes": "Limited and numbered (3000 copies) Expanded Vinyl Edition on blue vinyl.\nIncludes Alternate Take Of \"Flamenco Sketches\" & \"On Green Dolphin Street\".\n180 grams audiophile vinyl.\n\nLabel Cat.# MOVLP019\nSpine Cat.# MOLVLP 019\n\nExclusively remastered audio.\nGatefold sleeve incl. additional liner notes.\n\nOriginally released \u2117 & \u00a9 1959 Sony Music Entertainment\nThis release \u2117 & \u00a9 2010 Sony Music Entertainment\nManufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment.\n\n\"Columbia\" & Columbia (logo) are registered trademarks of Sony Music Entertainment.\nMade in the EU.",
+ "num_for_sale": 12,
+ "released": "2010-05-00",
+ "released_formatted": "May 2010",
+ "resource_url": "https://api.discogs.com/releases/2317524",
+ "series": [],
+ "status": "Accepted",
+ "styles": [
+  "Modal"
+ ],
+ "thumb": "https://i.discogs.com/N7WSsCn-s5efV0dT_QGB0Rgja9ehVRJxvc4yasMcwvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc1/MjQtMTI3NjUwNjQw/Ny5qcGVn.jpeg",
+ "title": "Kind Of Blue",
+ "tracklist": [
+  {
+   "duration": "9:22",
+   "position": "A1",
+   "title": "So What",
+   "type_": "track"
+  },
+  {
+   "duration": "9:46",
+   "position": "A2",
+   "title": "Freddie Freeloader",
+   "type_": "track"
+  },
+  {
+   "duration": "5:36",
+   "position": "A3",
+   "title": "Blue In Green",
+   "type_": "track"
+  },
+  {
+   "duration": "11:32",
+   "position": "B1",
+   "title": "All Blues",
+   "type_": "track"
+  },
+  {
+   "duration": "9:25",
+   "position": "B2",
+   "title": "Flamenco Sketches",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Bonus Tracks",
+   "type_": "heading"
+  },
+  {
+   "duration": "9:31",
+   "position": "C",
+   "title": "Flamenco Sketches  (Alternate Take)",
+   "type_": "track"
+  },
+  {
+   "duration": "9:48",
+   "position": "D",
+   "title": "On Green Dolphin Street",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2317524-Miles-Davis-Kind-Of-Blue",
+ "videos": [
+  {
+   "description": "\u201dSo What\u201d by Miles Davis\r\nListen to Miles Davis: https://MilesDavis.lnk.to/listenYD \r\n\r\nWatch more Miles Davis videos: https://MilesDavis.lnk.to/listenYD/youtube\r\n\r\nSubscribe to the official Miles Davis YouTube channel: https://MilesDavis.lnk.to/subscribe",
+   "duration": 564,
+   "embed": true,
+   "title": "Miles Davis - So What (Audio) (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=ylXk1LBvIqU"
+  },
+  {
+   "description": "\u201dFreddie Freeloader\u201d by Miles Davis\r\nListen to Miles Davis: https://MilesDavis.lnk.to/listenYD \r\n\r\nWatch more Miles Davis videos: https://MilesDavis.lnk.to/listenYD/youtube\r\n\r\nSubscribe to the official Miles Davis YouTube channel: https://MilesDavis.lnk.t",
+   "duration": 588,
+   "embed": true,
+   "title": "Miles Davis - Freddie Freeloader (Audio) (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=ZZcuSBouhVA"
+  },
+  {
+   "description": "Official music video for \u201dBlue In Green\u201d by Miles Davis\r\nListen to Miles Davis: https://MilesDavis.lnk.to/listenYD \r\n\r\nWatch more Miles Davis videos: https://MilesDavis.lnk.to/listenYD/youtube\r\n\r\nSubscribe to the official Miles Davis YouTube channel: http",
+   "duration": 339,
+   "embed": true,
+   "title": "Miles Davis - Blue In Green (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=TLDflhhdPCg"
+  },
+  {
+   "description": "Official music video for \u201dAll Blues\u201d by Miles Davis\r\nListen to Miles Davis: https://MilesDavis.lnk.to/listenYD \r\n\r\nWatch more Miles Davis videos: https://MilesDavis.lnk.to/listenYD/youtube\r\n\r\nSubscribe to the official Miles Davis YouTube channel: https://",
+   "duration": 0,
+   "embed": true,
+   "title": "Miles Davis - All Blues (Audio) (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=-488UORrfJ0"
+  },
+  {
+   "description": "Official music video for \u201dFlamenco Sketches\u201d by Miles Davis\r\nListen to Miles Davis: https://MilesDavis.lnk.to/listenYD \r\n\r\nWatch more Miles Davis videos: https://MilesDavis.lnk.to/listenYD/youtube\r\n\r\nSubscribe to the official Miles Davis YouTube channel: ",
+   "duration": 567,
+   "embed": true,
+   "title": "Miles Davis - Flamenco Sketches (Audio) (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=nTwp1sgUJrM"
+  }
+ ],
+ "year": 2010
+}

@@ -1,0 +1,151 @@
+{
+ "artist-credit": [
+  {
+   "artist": {
+    "country": "US",
+    "disambiguation": "jazz trumpeter, bandleader, songwriter",
+    "id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+    "name": "Miles Davis",
+    "sort-name": "Davis, Miles",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+   },
+   "joinphrase": "",
+   "name": "Miles Davis"
+  }
+ ],
+ "asin": "B0035WARJ4",
+ "barcode": "0886976389413",
+ "country": "NL",
+ "cover-art-archive": {
+  "artwork": true,
+  "back": true,
+  "count": 2,
+  "darkened": false,
+  "front": true
+ },
+ "date": "2010-05",
+ "disambiguation": "",
+ "id": "d6a1f166-8a02-4608-849b-9d623912c3e5",
+ "label-info": [
+  {
+   "catalog-number": "MOVLP019",
+   "label": {
+    "disambiguation": "imprint of Music on Vinyl B.V. do not use for manufacturing/distribution relationships!",
+    "id": "ba877a7c-18a9-4c68-8296-687fc3402864",
+    "label-code": null,
+    "name": "Music on Vinyl",
+    "sort-name": "Music on Vinyl",
+    "type": "Imprint",
+    "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded"
+   }
+  }
+ ],
+ "media": [
+  {
+   "format": "Vinyl",
+   "format-id": "10e17707-9751-3aaf-95b2-2432acd5374c",
+   "id": "18f92af6-6ab1-3fce-84f8-4d246cb57ebb",
+   "position": 1,
+   "title": "",
+   "track-count": 5
+  },
+  {
+   "format": "Vinyl",
+   "format-id": "10e17707-9751-3aaf-95b2-2432acd5374c",
+   "id": "5656362e-fad4-3702-b3a4-a27b7e1a4fdf",
+   "position": 2,
+   "title": "",
+   "track-count": 2
+  }
+ ],
+ "packaging": "Cardboard/Paper Sleeve",
+ "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+ "quality": "normal",
+ "relations": [
+  {
+   "attribute-ids": {},
+   "attribute-values": {},
+   "attributes": [],
+   "begin": null,
+   "direction": "forward",
+   "end": null,
+   "ended": false,
+   "source-credit": "",
+   "target-credit": "",
+   "target-type": "url",
+   "type": "amazon asin",
+   "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+   "url": {
+    "id": "3ec3ffd4-e241-4f52-93eb-6089852b07bf",
+    "resource": "https://www.amazon.de/gp/product/B0035WARJ4"
+   }
+  },
+  {
+   "attribute-ids": {},
+   "attribute-values": {},
+   "attributes": [],
+   "begin": null,
+   "direction": "forward",
+   "end": null,
+   "ended": false,
+   "source-credit": "",
+   "target-credit": "",
+   "target-type": "url",
+   "type": "discogs",
+   "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+   "url": {
+    "id": "c4a907ad-7a0d-4f12-9908-4efbd2fbf0d5",
+    "resource": "https://www.discogs.com/release/2317524"
+   }
+  }
+ ],
+ "release-events": [
+  {
+   "area": {
+    "disambiguation": "",
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-codes": [
+     "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands",
+    "type": null,
+    "type-id": null
+   },
+   "date": "2010-05"
+  }
+ ],
+ "release-group": {
+  "artist-credit": [
+   {
+    "artist": {
+     "country": "US",
+     "disambiguation": "jazz trumpeter, bandleader, songwriter",
+     "id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+     "name": "Miles Davis",
+     "sort-name": "Davis, Miles",
+     "type": "Person",
+     "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+    },
+    "joinphrase": "",
+    "name": "Miles Davis"
+   }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1959-08-17",
+  "id": "8e8a594f-2175-38c7-a871-abb68ec363e7",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "title": "Kind of Blue"
+ },
+ "status": "Official",
+ "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+ "text-representation": {
+  "language": "eng",
+  "script": "Latn"
+ },
+ "title": "Kind of Blue"
+}
